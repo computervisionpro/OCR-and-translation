@@ -15,6 +15,12 @@ Video Demo
 - Tesseract
 - Pytesseract
 
+### Steps to run:
+
+1. Download and cd into the directory
+2. Type `python 1.loc_text_translate.py --image gmn.jpg -l de -c 50`
+
+
 ### References:
 
 [PyimageSearch](https://www.pyimagesearch.com/)
