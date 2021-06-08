@@ -2,6 +2,8 @@
 
 This program will open an image and perform image processing to remove noise from the image. Then it will use tesseract software to performing OCR and Translate library to translate the word.
 
+Video Demo
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S9jiul8trTE/0.jpg)](https://www.youtube.com/watch?v=S9jiul8trTE)
 
 
