@@ -16,7 +16,7 @@ Video Demo
 
 ### Steps to run:
 
-1. Open command prompt/terminal and and cd into the directory
+1. Open command prompt/terminal and cd into the directory
 2. Run `python 1.loc_text_translate.py --image gmn.jpg -l de -c 50`
 
 
