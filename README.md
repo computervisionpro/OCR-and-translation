@@ -10,7 +10,6 @@ Video Demo
 ### Requirements:
 
 - Translate
-- Kivy
 - OpenCV
 - Tesseract
 - Pytesseract
